@@ -1,0 +1,133 @@
+cont = 2
+resultado1 = []
+
+while cont <= 4:
+    nota1 = float(input('Aluno 01 digite sua primeira nota: '))
+    nota2 = float(input('Aluno 01 digite sua segunda nota: '))
+    nota3 = float(input('Aluno 01 digite sua terceira nota: '))
+    nota4 = float(input('Aluno 01 digite sua quarta nota: '))
+    media = (nota1 + nota2 + nota3 + nota4)/4
+    cont += 3
+    resultado1.append(media)
+
+print('####################################')
+
+cont = 2
+resultado2 = []
+while cont <= 4:
+    nota1 = float(input('Aluno 02 digite sua primeira nota: '))
+    nota2 = float(input('Aluno 02 digite sua segunda nota: '))
+    nota3 = float(input('Aluno 02 digite sua terceira nota: '))
+    nota4 = float(input('Aluno 02 digite sua quarta nota: '))
+    media = (nota1 + nota2 + nota3 + nota4) / 4
+    cont += 3
+    resultado2.append(media)
+
+print('####################################')
+
+cont = 2
+resultado3 = []
+while cont <= 4:
+    nota1 = float(input('Aluno 03 digite sua primeira nota: '))
+    nota2 = float(input('Aluno 03 digite sua segunda nota: '))
+    nota3 = float(input('Aluno 03 digite sua terceira nota: '))
+    nota4 = float(input('Aluno 03 digite sua quarta nota: '))
+    media = (nota1 + nota2 + nota3 + nota4) / 4
+    cont += 3
+    resultado3.append(media)
+
+print('####################################')
+
+cont = 2
+resultado4 = []
+while cont <= 4:
+    nota1 = float(input('Aluno 04 digite sua primeira nota: '))
+    nota2 = float(input('Aluno 04 digite sua segunda nota: '))
+    nota3 = float(input('Aluno 04 digite sua terceira nota: '))
+    nota4 = float(input('Aluno 04 digite sua quarta nota: '))
+    media = (nota1 + nota2 + nota3 + nota4) / 4
+    cont +=  3
+    resultado4.append(media)
+
+print('####################################')
+
+cont = 2
+resultado5 = []
+while cont <= 4:
+    nota1 = float(input('Aluno 05 digite sua primeira nota: '))
+    nota2 = float(input('Aluno 05 digite sua segunda nota: '))
+    nota3 = float(input('Aluno 05 digite sua terceira nota: '))
+    nota4 = float(input('Aluno 05 digite sua quarta nota: '))
+    media = (nota1 + nota2 + nota3 + nota4) / 4
+    cont += 3
+    resultado5.append(media)
+
+print('####################################')
+
+cont = 2
+resultado6 = []
+while cont <= 4:
+    nota1 = float(input('Aluno 06 digite sua primeira nota: '))
+    nota2 = float(input('Aluno 06 digite sua segunda nota: '))
+    nota3 = float(input('Aluno 06 digite sua terceira nota: '))
+    nota4 = float(input('Aluno 06 digite sua quarta nota: '))
+    media = (nota1 + nota2 + nota3 + nota4) / 4
+    cont += 3
+    resultado6.append(media)
+
+print('####################################')
+
+cont = 2
+resultado7 = []
+while cont <= 4:
+    nota1 = float(input('Aluno 07 digite sua primeira nota: '))
+    nota2 = float(input('Aluno 07 digite sua segunda nota: '))
+    nota3 = float(input('Aluno 07 digite sua terceira nota: '))
+    nota4 = float(input('Aluno 07 digite sua quarta nota: '))
+    media = (nota1 + nota2 + nota3 + nota4) / 4
+    cont += 3
+    resultado7.append(media)
+
+print('####################################')
+
+cont = 2
+resultado8 = []
+while cont <= 4:
+    nota1 = float(input('Aluno 08 digite sua primeira nota: '))
+    nota2 = float(input('Aluno 08 digite sua segunda nota: '))
+    nota3 = float(input('Aluno 08 digite sua terceira nota: '))
+    nota4 = float(input('Aluno 08 digite sua quarta nota: '))
+    media = (nota1 + nota2 + nota3 + nota4) / 4
+    cont += 3
+    resultado8.append(media)
+
+print('####################################')
+
+cont = 2
+resultado9 = []
+while cont <= 4:
+    nota1 = float(input('Aluno 09 digite sua primeira nota: '))
+    nota2 = float(input('Aluno 09 digite sua segunda nota: '))
+    nota3 = float(input('Aluno 09 digite sua terceira nota: '))
+    nota4 = float(input('Aluno 09 digite sua quarta nota: '))
+    media = (nota1 + nota2 + nota3 + nota4) / 4
+    cont += 3
+    resultado9.append(media)
+
+print('####################################')
+
+cont = 2
+resultado10 = []
+while cont <= 4:
+    nota1 = float(input('Aluno 10 digite sua primeira nota: '))
+    nota2 = float(input('Aluno 10 digite sua segunda nota: '))
+    nota3 = float(input('Aluno 10 digite sua terceira nota: '))
+    nota4 = float(input('Aluno 10 digite sua quarta nota: '))
+    media = (nota1 + nota2 + nota3 + nota4) / 4
+    cont += 3
+    resultado10.append(media)
+
+print('####################################')
+
+print(f'A média do primeiro aluno foi {resultado1}\n a media do segundo aluno foi {resultado2}\n a media do terceito aluno foi {resultado3}\n a media do quarto aluno foi {resultado4}\n a media do quinto aluno foi {resultado5}\n a media do sexto aluno foi {resultado6}\n a media do setimo aluno foi {resultado7}\n a media do oitavo aluno foi {resultado8}\n a media do nono aluno foi {resultado9}\n a media do decimo aluno foi {resultado10}')
+'''
